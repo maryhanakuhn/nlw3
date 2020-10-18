@@ -1,0 +1,25 @@
+// cria o package.json
+npm init -y/
+
+// cria o package-lock.json
+npm install express
+
+//executar o server
+node src/server.js
+
+//ligar de novo o servidor
+ctrl+c //interrompe o processo
+clear //limpar terminal
+node src/server.js
+
+//instalar nodemon
+npm install nodemon
+
+//ligar servidor
+npm start
+
+// handlebars.js - template engine
+npm install hbs
+
+//instalar sqlite
+npm install sqlite-async
