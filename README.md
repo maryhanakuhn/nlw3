@@ -1,6 +1,3 @@
-# nlw3
-Conteúdo disponibilizado no Next Level Week #3 pela Rocketseat. Desenvolvimento do website Happy, que consiste em um cadastro e busca de Lar para crianças em vulnerabilidade social.
-
 <h1 align="center">Happy</h1>
 
 ✨ <b>Tecnologias</b>
